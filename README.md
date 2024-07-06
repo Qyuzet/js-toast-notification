@@ -3,7 +3,7 @@
 ## Overview
 
 The **JS Toast Notification** project demonstrates how to create customizable toast notifications using JavaScript, HTML, and CSS. This project is an excellent resource for computer science students to learn and apply concepts such as DOM manipulation, event handling, and CSS animations.
-[TRY NOW!](https://qyuzet.github.io/js-toast-notification/)
+[TRY NOW!](https://qyuzet.github.io/js-toast-notification/).
 
 ![image](https://github.com/Qyuzet/js-toast-notification/assets/93258081/d41a0e28-4578-4d45-a382-e907b3ead42d)
 
